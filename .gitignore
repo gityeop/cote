@@ -1,0 +1,24 @@
+# 환경 변수 및 보안 정보
+.env
+*.env
+
+# Python 가상환경
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 로그 파일
+*.log
+error_logs.json
+
+# macOS 시스템 파일
+.DS_Store
+
+# IDE 설정
+.idea/
+.vscode/
+.env
+output.log
+.zshrc.local
